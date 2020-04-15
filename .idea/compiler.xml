@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seata-service" />
+        <module name="sessionB" />
+        <module name="sessionA" />
+        <module name="cas-website" />
+        <module name="seata-busi" />
+        <module name="job-quartz" />
+        <module name="busi" />
+        <module name="cas-website2" />
+        <module name="job-sharding-elastic" />
+        <module name="trans-busi" />
+        <module name="job-xxl" />
+        <module name="lcn-service" />
+        <module name="trans-xa" />
+        <module name="session_support" />
+        <module name="xxl-job-admin" />
+        <module name="lcn-tm" />
+        <module name="job-schedule" />
+        <module name="lcn-busi" />
+        <module name="boot_cache" />
+        <module name="cas-login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot_cache" target="1.8" />
+      <module name="busi" target="1.8" />
+      <module name="cas-login" target="1.8" />
+      <module name="cas-website" target="1.8" />
+      <module name="cas-website2" target="1.8" />
+      <module name="job-quartz" target="1.7" />
+      <module name="job-schedule" target="1.7" />
+      <module name="job-sharding-elastic" target="1.7" />
+      <module name="job-xxl" target="1.7" />
+      <module name="lcn-busi" target="1.7" />
+      <module name="lcn-service" target="1.7" />
+      <module name="lcn-tm" target="1.7" />
+      <module name="schedule" target="1.7" />
+      <module name="seata-busi" target="1.7" />
+      <module name="seata-service" target="1.7" />
+      <module name="session_support" target="1.8" />
+      <module name="sessionA" target="1.8" />
+      <module name="sessionB" target="1.8" />
+      <module name="sso-cas" target="1.8" />
+      <module name="sso-session" target="1.8" />
+      <module name="trans" target="1.7" />
+      <module name="trans-busi" target="1.7" />
+      <module name="trans-lcn" target="1.7" />
+      <module name="trans-seata" target="1.7" />
+      <module name="trans-xa" target="1.7" />
+      <module name="xxl-job-admin" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

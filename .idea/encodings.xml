@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-busi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-busi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-busi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-busi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-tm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-tm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-busi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-busi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-xa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-xa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/busi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/busi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionB/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/session_support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-schedule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-sharding-elastic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-sharding-elastic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-xxl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-xxl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/xxl-job-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/xxl-job-admin/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

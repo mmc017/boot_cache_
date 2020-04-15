@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/pom.xml" />
+        <option value="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/pom.xml" />
+        <option value="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/pom.xml" />
+        <option value="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

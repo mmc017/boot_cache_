@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_cache.iml" filepath="$PROJECT_DIR$/boot_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/busi/busi.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/busi/busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-login/cas-login.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-login/cas-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website/cas-website.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website/cas-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website2/cas-website2.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/cas-website2/cas-website2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-quartz/job-quartz.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-quartz/job-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-schedule/job-schedule.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-schedule/job-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-sharding-elastic/job-sharding-elastic.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-sharding-elastic/job-sharding-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-xxl/job-xxl.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/job-xxl/job-xxl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-busi/lcn-busi.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-busi/lcn-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-service/lcn-service.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-service/lcn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-tm/lcn-tm.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/lcn-tm/lcn-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/schedule.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-busi/seata-busi.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-busi/seata-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-service/seata-service.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/seata-service/seata-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionA/sessionA.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionA/sessionA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionB/sessionB.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sessionB/sessionB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/session_support/session_support.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/session_support/session_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/sso-cas.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-cas/sso-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sso-session.iml" filepath="$PROJECT_DIR$/../../03-2019.11.21-session共享与单点登陆实战/sso-session/sso-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-busi/trans-busi.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-busi/trans-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/trans-lcn.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-lcn/trans-lcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/trans-seata.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-seata/trans-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-xa/trans-xa.iml" filepath="$PROJECT_DIR$/../../02-2019.11.19-分布式事务解决方案/trans/trans-xa/trans-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/xxl-job-admin/xxl-job-admin.iml" filepath="$PROJECT_DIR$/../../04-2019.11.24-分布式任务调度实战/schedule/xxl-job-admin/xxl-job-admin.iml" />
+    </modules>
+  </component>
+</project>
